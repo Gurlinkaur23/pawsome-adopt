@@ -24,3 +24,4 @@ The frontend of Pawsome Adopt is hosted on Vercel. You can visit the live applic
 The backend contains the API and database configuration needed to handle data management and processing for the application. It is developed with .NET 6, ensuring high performance and scalability.
 The backend API is hosted on Azure and provides all the necessary API services for the application:
 [Visit Pawsome Adopt Backend](https://pawsomeadoptbackend20240619101131.azurewebsites.net/swagger) _(Note: This URL will typically be used for API calls and may not provide a user interface.)_
+Link to Backend project: [Backend project](https://github.com/Gurlinkaur23/PawsomeAdoptBackEnd)
